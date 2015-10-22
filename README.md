@@ -8,4 +8,4 @@ Note: DE refers to Differential Expression (including only differentially expres
 Code:
 Inspired by <a href="https://twitter.com/francoisz">François Zaninotto</a>, developed by <a href="http://www.transcriptomics.org">Emmanuel Gonzalez</a>.
 
-<h3><a href="http://htmlpreview.github.io/?https://github.com/gonzalezem/DiversityTree_oct2015/blob/master/index.html">CICK HERE TO SEE THE GRAPHICS</a></h3>
+<h3><a href="http://htmlpreview.github.io/?https://github.com/gonzalezem/DiversityTree_oct2015/blob/master/index.html">CICK HERE TO SEE FIGURE 7</a></h3>
