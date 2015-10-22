@@ -6,6 +6,6 @@ These interactive graphics vizualize the organism diversity by annotation, as it
 Note: DE refers to Differential Expression (including only differentially expressed transcripts). "Full" means all transcripts are considered. Full may run slowly on lower spec computers.
 
 Code:
-Inspired by <a href="https://twitter.com/francoisz">François Zaninotto</a>, developed by <a href="http://www.transcriptomics.org">Emmanuel Gonzalez</a>.
+Developed by <a href="http://www.transcriptomics.org">Emmanuel Gonzalez</a>. See LICENSE file for copyright (F. Zaninotto).
 
 <h3><a href="http://htmlpreview.github.io/?https://github.com/gonzalezem/DiversityTree_oct2015/blob/master/index.html">CICK HERE TO SEE FIGURE 7</a></h3>
