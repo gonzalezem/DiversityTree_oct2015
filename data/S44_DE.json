@@ -1,0 +1,1498 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#CDC890",
+                              "name": "Rhodococcus",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#CDC890",
+                          "name": "Nocardiaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#CDC890",
+                      "name": "Corynebacterineae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#CDC890",
+                              "name": "Actinoplanes",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#CDC890",
+                          "name": "Micromonosporaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#CDC890",
+                      "name": "Micromonosporineae",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#CDC890",
+                  "name": "Actinobacteridae",
+                  "size": 2
+                }
+              ],
+              "color": "#CDC890",
+              "name": "Actinobacteria",
+              "size": 2
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#CDC890",
+                              "name": "Escherichia",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#CDC890",
+                          "name": "Enterobacteriaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#CDC890",
+                      "name": "Enterobacteriales",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#CDC890",
+                              "name": "Pseudomonas",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#CDC890",
+                          "name": "Pseudomonadaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#CDC890",
+                      "name": "Pseudomonadales",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#CDC890",
+                  "name": "Gammaproteobacteria",
+                  "size": 2
+                }
+              ],
+              "color": "#CDC890",
+              "name": "Proteobacteria",
+              "size": 2
+            }
+          ],
+          "color": "#CDC890",
+          "name": "Bacteria",
+          "size": 4
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#000000",
+                              "name": "Ichthyophthirius",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#000000",
+                          "name": "Ophryoglenina",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#000000",
+                      "name": "Hymenostomatida",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#000000",
+                              "name": "Tetrahymena",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#000000",
+                          "name": "Tetrahymenidae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#000000",
+                      "name": "Tetrahymenina",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#000000",
+                  "name": "Ciliophora",
+                  "size": 2
+                }
+              ],
+              "color": "#000000",
+              "name": "Alveolata",
+              "size": 2
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#000000",
+                              "name": "Planoprotostelium",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#000000",
+                          "name": "Cavosteliaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#000000",
+                      "name": "Protosteliales",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#000000",
+                  "name": "Mycetozoa",
+                  "size": 1
+                }
+              ],
+              "color": "#000000",
+              "name": "Amoebozoa",
+              "size": 1
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Lentinula",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Marasmiaceae",
+                          "size": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Coprinellus",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Psathyrellaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Agaricales",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Trametes",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Polyporales",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Agaricomycetes",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Trichophyton",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Arthrodermataceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Arthrodermataceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Neofusicoccum",
+                              "size": 6
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Macrophomina",
+                              "size": 5
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Botryosphaeriaceae",
+                          "size": 11
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Botryosphaeriales",
+                      "size": 11
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Cladosporium",
+                              "size": 9
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Cladosporiaceae",
+                          "size": 9
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Mycosphaerella",
+                              "size": 20
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Pseudocercospora",
+                              "size": 16
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Sphaerulina",
+                              "size": 10
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Zymoseptoria",
+                              "size": 12
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Mycosphaerellaceae",
+                          "size": 58
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Baudoinia",
+                              "size": 33
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Teratosphaeriaceae",
+                          "size": 33
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Capnodiales",
+                      "size": 100
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Coniosporium",
+                              "size": 7
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Exophiala",
+                              "size": 5
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Cladophialophora",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Herpotrichiellaceae",
+                          "size": 13
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Chaetothyriales",
+                      "size": 13
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Aureobasidium",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Dothioraceae",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Dothioraceae",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Blumeria",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Erysiphaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Erysiphales",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Aspergillus",
+                              "size": 26
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Neosartorya",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Aspergillaceae",
+                          "size": 27
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Byssochlamys",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Thermoascaceae",
+                          "size": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Talaromyces",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Trichocomaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Eurotiales",
+                      "size": 29
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Gloeophyllum",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Gloeophyllaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Gloeophyllales",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Colletotrichum",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Glomerellaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Glomerellaceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Glarea",
+                              "size": 4
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Helotiaceae",
+                          "size": 4
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Botrytis",
+                              "size": 2
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Sclerotinia",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Sclerotiniaceae",
+                          "size": 4
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Helotiales",
+                      "size": 8
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Trichoderma",
+                              "size": 3
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Hypocreaceae",
+                          "size": 3
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Fusarium",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Nectriaceae",
+                          "size": 2
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Ophiocordyceps",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Ophiocordycipitaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Hypocreales",
+                      "size": 6
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Leptosphaeria maculans complex",
+                              "size": 6
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Leptosphaeria",
+                          "size": 6
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Leptosphaeriaceae",
+                      "size": 6
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Rhodosporidium",
+                              "size": 11
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Sporidiobolales",
+                          "size": 11
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Microbotryomycetes",
+                      "size": 11
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Mixia",
+                              "size": 3
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Mixiaceae",
+                          "size": 3
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Mixiales",
+                      "size": 3
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Fusarium oxysporum species complex",
+                              "size": 1
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Fusarium fujikuroi species complex",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Fusarium",
+                          "size": 3
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Nectriaceae",
+                      "size": 3
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Ajellomyces",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Ajellomycetaceae",
+                          "size": 2
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Coccidioides",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Onygenales",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Onygenales",
+                      "size": 4
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Dactylellina",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Orbiliaceae",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Orbiliaceae",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Verticillium",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Plectosphaerellaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Plectosphaerellaceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Alternaria alternata group",
+                              "size": 4
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Alternaria",
+                          "size": 4
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Pleosporaceae",
+                      "size": 4
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Leptosphaerulina",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Didymellaceae",
+                          "size": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Parastagonospora",
+                              "size": 23
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Phaeosphaeriaceae",
+                          "size": 23
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Bipolaris",
+                              "size": 29
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Pyrenophora",
+                              "size": 96
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Setosphaeria",
+                              "size": 23
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Alternaria",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Pleosporaceae",
+                          "size": 149
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Pleosporineae",
+                      "size": 173
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Saccharomyces",
+                              "size": 13
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Kluyveromyces",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Saccharomycetaceae",
+                          "size": 15
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Saccharomycetales",
+                      "size": 15
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Schizosaccharomyces",
+                              "size": 15
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Schizosaccharomycetaceae",
+                          "size": 15
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Schizosaccharomycetales",
+                      "size": 15
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Humicola",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Chaetomiaceae",
+                          "size": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Podospora",
+                              "size": 3
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Lasiosphaeriaceae",
+                          "size": 3
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Neurospora",
+                              "size": 33
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Sordariaceae",
+                          "size": 33
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Sordariales",
+                      "size": 37
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Filobasidiella/Cryptococcus neoformans species complex",
+                              "size": 5
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Filobasidiella",
+                          "size": 5
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Tremellaceae",
+                      "size": 5
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Pseudozyma",
+                              "size": 3
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "mitosporic Ustilaginaceae",
+                          "size": 3
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Ustilaginaceae",
+                      "size": 3
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Ustilago",
+                              "size": 3
+                            },
+                            {
+                              "color": "#7DADAD",
+                              "name": "Sporisorium",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Ustilaginaceae",
+                          "size": 5
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Ustilaginales",
+                      "size": 5
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Venturia",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Venturiaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Venturiales",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#7DADAD",
+                              "name": "Eutypa",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#7DADAD",
+                          "name": "Diatrypaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#7DADAD",
+                      "name": "Xylariales",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#7DADAD",
+                  "name": "Dikarya",
+                  "size": 465
+                }
+              ],
+              "color": "#7DADAD",
+              "name": "Fungi",
+              "size": 465
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#BB472E",
+                              "name": "Harpegnathos",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#BB472E",
+                          "name": "Ponerini",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#BB472E",
+                      "name": "Ponerinae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#BB472E",
+                              "name": "Manduca",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#BB472E",
+                          "name": "Sphingini",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#BB472E",
+                      "name": "Sphinginae",
+                      "size": 1
+                    }
+                  ],
+                  "color": "#BB472E",
+                  "name": "Ecdysozoa",
+                  "size": 2
+                }
+              ],
+              "color": "#BB472E",
+              "name": "Metazoa",
+              "size": 2
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Ricinus",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Acalypheae",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Acalyphoideae",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Brassica",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Brassiceae",
+                          "size": 1
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Arabidopsis",
+                              "size": 19
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Camelineae",
+                          "size": 19
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Brassicaceae",
+                      "size": 20
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Beta",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Amaranthaceae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Caryophyllales",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Oryza",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Oryzeae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Ehrhartoideae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Fragaria vesca subsp. vesca",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Fragaria vesca",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Fragaria",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Helianthus",
+                              "size": 3
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Heliantheae",
+                          "size": 3
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Heliantheae alliance",
+                      "size": 3
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Prunus",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Amygdaleae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Maloideae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Gossypium",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Malvoideae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Malvaceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Nicotiana",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Nicotianeae",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Nicotianoideae",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Medicago",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Trifolieae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Papilionoideae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Soja",
+                              "size": 2
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Glycine",
+                          "size": 2
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Phaseoleae",
+                      "size": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Antirrhinum",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Antirrhineae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Plantaginaceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Hordeum",
+                              "size": 5
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Triticeae",
+                          "size": 5
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Pooideae",
+                      "size": 5
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Populus trichocarpa",
+                              "size": 196
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Populus",
+                          "size": 196
+                        },
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Salix purpurea",
+                              "size": 6979
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Salix",
+                          "size": 6979
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Saliceae",
+                      "size": 7175
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Daucus",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Daucinae",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Scandiceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Lycopersicon",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Solanum",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Solaneae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Vitis vinifera",
+                              "size": 1
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Vitis",
+                          "size": 1
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Vitaceae",
+                      "size": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#519548",
+                              "name": "Vitis",
+                              "size": 14
+                            }
+                          ],
+                          "color": "#519548",
+                          "name": "Vitaceae",
+                          "size": 14
+                        }
+                      ],
+                      "color": "#519548",
+                      "name": "Vitales",
+                      "size": 14
+                    }
+                  ],
+                  "color": "#519548",
+                  "name": "Streptophyta",
+                  "size": 7234
+                }
+              ],
+              "color": "#519548",
+              "name": "Viridiplantae",
+              "size": 7234
+            }
+          ],
+          "color": "#000000",
+          "name": "Eukaryota",
+          "size": 7704
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "color": "#000000",
+                              "name": "Unknown",
+                              "size": 1241
+                            }
+                          ],
+                          "color": "#000000",
+                          "name": "Unknown",
+                          "size": 1241
+                        }
+                      ],
+                      "color": "#000000",
+                      "name": "Unknown",
+                      "size": 1241
+                    }
+                  ],
+                  "color": "#000000",
+                  "name": "Unknown",
+                  "size": 1241
+                }
+              ],
+              "color": "#000000",
+              "name": "Unknown",
+              "size": 1241
+            }
+          ],
+          "color": "#000000",
+          "name": "Unknown",
+          "size": 1241
+        }
+      ],
+      "color": "#000000",
+      "name": "S44",
+      "size": 8949
+    }
+  ],
+  "name": "S44",
+  "size": 87
+}
