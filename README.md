@@ -1,5 +1,5 @@
 <h4>Metatranscriptomic diversity in a genotype</h4>
-This interactive graphic vizualizes the organism diversity by annotation, as it can be found in leaves of ten different willow genotypes (60 trees in total). Taxons are represented by coloured nodes (see legend). The size of the distal node (i.e. species taxon) is proportinal to the total number of unique transcripts. All results have been derived from transcriptmomic analysis based on Next-Generation Sequencing data (RNA-Seq, Illumina).
+This interactive graphic vizualizes the organism diversity by annotation, as it can be found in leaves of ten different willow genotypes (60 trees in total). Taxons are represented by coloured nodes (see legend). The size of the distal node (i.e. species taxon) is proportional to the total number of unique transcripts. All results have been derived from transcriptomic analysis based on Next-Generation Sequencing data (RNA-Seq, Illumina).
 
 Note: DE refers to Differential Expression (including only differentially expressed transcripts). "Full" means all transcripts are considered. Full may run slowly on lower spec computers.
 
